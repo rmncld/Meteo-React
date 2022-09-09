@@ -10,6 +10,7 @@ function App() {
       <MeteoWidget city="Ploudalmézeau" code="29830" />
       <MeteoWidget city="Montpellier" code="34000" />
       <MeteoWidget city="Lille" code="59000" />
+      <MeteoWidget city="Saint-Etienne-de-mer-morte" code="44270" />
     </div>
   );
 }
